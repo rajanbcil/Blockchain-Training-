@@ -1,3 +1,5 @@
+//Code file part of Blockchain Training Conducted by Blockchain Innovation Lab www.bcil.io 
+
 pragma solidity ^0.4.0;
 
 contract Proof
